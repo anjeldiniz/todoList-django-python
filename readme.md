@@ -12,5 +12,8 @@ $ npm install
 ```
 # Development
 ```bash
-$ npm start
+$ python manage.py runserver
+
+http://127.0.0.1:8000/todo or http://127.0.0.1:8000/todo/pk
+
 ```
