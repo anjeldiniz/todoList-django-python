@@ -8,6 +8,7 @@ $ cd api_todo
 ```
 # Install locally
 ```bash
+$ pip install django
 $ pip install djangorestframework
 ```
 # Development
