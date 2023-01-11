@@ -8,7 +8,7 @@ $ cd api_todo
 ```
 # Install locally
 ```bash
-$ npm install
+$ pip install
 ```
 # Development
 ```bash
