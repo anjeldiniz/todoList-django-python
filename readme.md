@@ -8,7 +8,7 @@ $ cd api_todo
 ```
 # Install locally
 ```bash
-$ pip install
+$ pip install django
 ```
 # Development
 ```bash
